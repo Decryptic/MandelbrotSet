@@ -135,7 +135,7 @@ document.addEventListener('mousedown', (e) => {
     let x = e.clientX - rect.left;
     let y = e.clientY - rect.top;
     
-    let dr = (x - (SCREEN_WIDTH/2)) * scale
+    let dr = (x - (SCREEN_WIDTH/2)) * scale;
     let di = (y - (SCREEN_HEIGHT/2)) * scale;
     
     focus.real      = focus.real      + dr;
