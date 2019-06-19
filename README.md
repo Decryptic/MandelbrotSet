@@ -9,3 +9,5 @@ applying f to its result beginning with z=0 are in the Mandelbrot set.
 
 Points that fall within the set are colored black. Points outside the set are
 colored white.
+
+![Screenshot](https://github.com/Decryptic/MandelbrotSet/blob/master/assets/mandelbrot.png?raw=true)
